@@ -23,25 +23,25 @@ The main objective of this project is to identify the key factors contributing t
 
 ## 🏢 Main HR Analytics Dashboard
 
-![HR Analytics Dashboard](Dashboard_Screenshots/hr_dashboard.png)
+![HR Analytics Dashboard](Dashboard_image/hr_dashboard.png)
 
 ---
 
 ## 👨‍💼 Human Resources Department Analysis
 
-![HR Department Dashboard](Dashboard_Screenshots/hr_department.png)
+![HR Department Dashboard](Dashboard_image/hr_department.png)
 
 ---
 
 ## 🔬 Research & Development Department Analysis
 
-![R&D Dashboard](Dashboard_Screenshots/rd_dashboard.png)
+![R&D Dashboard](Dashboard_image/rd_dashboard.png)
 
 ---
 
 ## 💼 Sales Department Analysis
 
-![Sales Dashboard](Dashboard_Screenshots/sales_dashboard.png)
+![Sales Dashboard](Dashboard_image/sales_dashboard.png)
 
 ---
 
